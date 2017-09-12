@@ -93,7 +93,7 @@ define('WP_ALLOW_REPAIR', true);
  * You can have multiple installations in one database if you give each a unique
  * prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'bluemix_0_5_wp_';
+$table_prefix  = 'wp_';
 
 /**
  * WordPress Localized Language, defaults to English.
